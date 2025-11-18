@@ -149,9 +149,10 @@ unset($_SESSION["success"]);
   </div>
 </div>
 <p class="last">
-  © 2025 All Rights Reserved By Free Html Templates
+  © 2025 All Rights Reserved By Onyeno Ikechukwu
 </p>
 <script src="bootstrap-5.3.8-dist/js/bootstrap.js" ></script>
 <script src="javascript/index.js"></script>
 </body>
+
 </html>
